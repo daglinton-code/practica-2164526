@@ -1,19 +1,11 @@
 Instructor: Daglinton Davila Murillo
 Aprendices:
-<<<<<<< HEAD
-1) Kllaner.19@gmail.com Valentina López Yepes
+
+1) Kllaner.19@gmail.com Valentina LÃ³pez Yepes
 2) ingsandraalmanzar@gmail.com Sandra Liliana Almanzar Vargas
 3) alexanderossaotalvaro1@gmail.com --Alexander Ossa Otalvaro
 4) juanpablovalencia749@gmail.com  --escribe tu nombre
 5) jaosorno40@misena.edu.co --Jheferson Andre Osorno Correa
 6) dcastellax@gmail.com --Jesus David Castellar
 7) profedaglinton@misena.edu.co DAGLINTON DAVILA MURILLO
-=======
-1) Kllaner.19@gmail.com 
-2) ingsandraalmanzar@gmail.com
-3) alexanderossaotalvaro1@gmail.com
-4) juanpablovalencia749@gmail.com 
-5) jaosorno40@misena.edu.co
-6) dcastellax@gmail.com
-7) juan.pablo_0416@hotmail.com
->>>>>>> main
+
